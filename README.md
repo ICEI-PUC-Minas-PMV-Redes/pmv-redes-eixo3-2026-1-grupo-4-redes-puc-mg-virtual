@@ -9,7 +9,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Turma** | *(Informar a turma)* |
+| **Turma** | *(TURMA 01 EIXO 3)* |
 | **Grupo** | *(GRUPO 4)* |
 | **Semestre/Ano** | *(3* SEMESTRE/2026)* |
 
@@ -21,7 +21,7 @@
 | *(ANDRE ALBUQUERQUE)* | *(Matrícula)* |
 | *(DANIEL SILVA)* | *(Matrícula)* |
 | *(MARIA EDUARDA)* | *(Matrícula)* |
-| *(ANDREW* | *(Matrícula)* |
+| *(ANDREW)* | *(Matrícula)* |
 
 ### Orientador(a)
 
