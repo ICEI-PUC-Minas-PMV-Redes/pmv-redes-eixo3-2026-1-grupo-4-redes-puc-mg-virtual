@@ -21,7 +21,7 @@
 | *(ANDRE ALBUQUERQUE)* | *(Matrícula)* |
 | *(DANIEL SILVA)* | *(Matrícula)* |
 | *(MARIA EDUARDA)* | *(Matrícula)* |
-| *(ANDREW)* | *(Matrícula)* |
+| *(ANDREW TAVARES )* | *(895540)* |
 
 ### Orientador(a)
 
@@ -33,7 +33,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *(Preencher)* |
+| **Nome da comunidade/organização** | *()* |
 | **Tipo** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
 | **Endereço** | *(Preencher)* |
 | **Responsável pelo contato** | *(Nome e cargo)* |
