@@ -33,7 +33,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *()* |
+| **Nome da comunidade/organização** | *(Tavars Armarinhos e Utilidades)* |
 | **Tipo** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
 | **Endereço** | *(Preencher)* |
 | **Responsável pelo contato** | *(Nome e cargo)* |
