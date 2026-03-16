@@ -6,7 +6,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *(Preencher)* |
+| **Nome da comunidade/organização** | *Tavares Armarinhos* |
 | **Tipo de organização** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
 | **CNPJ (se aplicável)** | *(Preencher)* |
 | **Endereço completo** | *(Preencher)* |
