@@ -9,7 +9,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Turma** | *(Informar a turma)* |
+| **Turma** | *(TURMA 01 EIXO 3)* |
 | **Grupo** | *(GRUPO 4)* |
 | **Semestre/Ano** | *(3* SEMESTRE/2026)* |
 
@@ -20,8 +20,8 @@
 | *(GERALDO GONÇALVES RODRIGUES)* | *(883066)* |
 | *(ANDRE ALBUQUERQUE)* | *(Matrícula)* |
 | *(DANIEL SILVA)* | *(Matrícula)* |
-| *(MARIA EDUARDA)* | *(845261)* |
-| *(ANDREW* | *(Matrícula)* |
+| *(MARIA EDUARDA)* | *(Matrícula)* |
+| *(ANDREW TAVARES )* | *(895540)* |
 
 ### Orientador(a)
 
@@ -33,7 +33,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *(Preencher)* |
+| **Nome da comunidade/organização** | *()* |
 | **Tipo** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
 | **Endereço** | *(Preencher)* |
 | **Responsável pelo contato** | *(Nome e cargo)* |
