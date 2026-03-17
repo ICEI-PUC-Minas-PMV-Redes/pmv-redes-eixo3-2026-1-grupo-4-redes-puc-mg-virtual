@@ -18,8 +18,8 @@
 | Nome Completo | Matrícula |
 |---------------|-----------|
 | *(GERALDO GONÇALVES RODRIGUES)* | *(883066)* |
-| *(ANDRE ALBUQUERQUE)* | *(Matrícula)* |
-| *(DANIEL SILVA)* | *(Matrícula)* |
+| *(ANDRE ALBUQUERQUE)* | *1582764* |
+| *(DANIEL SILVA)* | *(880944)* |
 | *(MARIA EDUARDA)* | *(Matrícula)* |
 | *(ANDREW TAVARES )* | *(895540)* |
 
