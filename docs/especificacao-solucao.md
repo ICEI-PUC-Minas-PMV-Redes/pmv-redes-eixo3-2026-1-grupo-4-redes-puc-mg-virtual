@@ -9,7 +9,7 @@
 | **Nome da comunidade/organização** | *Tavares Armarinhos* |
 | **Tipo de organização** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
 | **CNPJ (se aplicável)** | *(Preencher)* |
-| **Endereço completo** | *(Preencher)* |
+| **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP |
 | **Bairro / Cidade / UF** | *(Preencher)* |
 | **Responsável pelo contato** | *(Nome, cargo e setor)* |
 | **E-mail** | *(Preencher)* |
@@ -74,7 +74,7 @@
 - [ ] Front-end web (HTML + CSS + JS)
 - [ ] Aplicação móvel
 - [ ] Configuração de infraestrutura de rede
-- [ ] Outro: *(especificar)*
+- [x] Outro: *(especificar. Por exemplo: aplicação Google Docs)*
 
 ### 3.5 Justificativa Técnica
 
