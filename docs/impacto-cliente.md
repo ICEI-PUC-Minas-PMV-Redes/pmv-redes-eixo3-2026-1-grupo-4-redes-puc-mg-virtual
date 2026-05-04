@@ -8,23 +8,23 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Comunidade parceira** | *(Nome da organização/comunidade)* |
-| **Projeto desenvolvido** | *(Título do projeto)* |
-| **Período de execução** | *(Data início – Data fim)* |
-| **Número de pessoas diretamente impactadas** | *(Quantidade)* |
-| **Número de pessoas indiretamente impactadas** | *(Quantidade estimada)* |
+| **Comunidade parceira** | *Tavares Armarinhos e Utilidades* |
+| **Projeto desenvolvido** | *(Implementação de Políticas de Segurança)* |
+| **Período de execução** | *(01/03/2026 – Data fim)* |
+| **Número de pessoas diretamente impactadas** | *(5)* |
+| **Número de pessoas indiretamente impactadas** | *(3)* |
 
 ---
 
 ## 2. Situação Anterior (Antes do Projeto)
 
-*(Descreva detalhadamente como era a situação da comunidade antes da intervenção do grupo. Quais eram os problemas, limitações e dificuldades enfrentadas em relação a redes de computadores e tecnologia?)*
+*(Sem políticas de segurança e com exposição a riscos na rede como Malwares, Phising, Perda de dados e acessos não autorizados.)*
 
 ---
 
 ## 3. Solução Implementada
 
-*(Resuma a solução que foi implementada. O que foi entregue? Quais tecnologias foram utilizadas? Como a solução funciona?)*
+*(Implantadas as políticas de segurança .Contemplando as boas práticas de uso do computador, gestão de senhas, proteção contra ameaças digitais, realização de backups e segurança da rede. visando reduzir vulnerabilidades, promover o uso responsável da tecnologia e fortalecer a proteção dos dados utilizados no ambiente de trabalho.)*
 
 ---
 
