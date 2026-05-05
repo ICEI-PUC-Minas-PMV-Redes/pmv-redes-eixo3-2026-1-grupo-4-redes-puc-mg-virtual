@@ -6,7 +6,7 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *Tavares Armarinhos* |
+| **Nome da comunidade/organização** | *Armarinhos Tavares* |
 | **Tipo de organização** | *EMPRESA* |
 | **CNPJ (se aplicável)** | *29.490.761/0001-50* |
 | **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP|
@@ -18,10 +18,10 @@
 
 ### 1.2 Contexto da Comunidade
 
-*(A comunidade parceira escolhida é a Tavares Armarinhos, uma loja de pequeno porte que atende a população local com produtos de armarinho e itens diversos.
+*A comunidade parceira escolhida é a Tavares Armarinhos, uma loja de pequeno porte que atende a população local com produtos de armarinho e itens diversos.
 A loja possui 1 funcionário, 1 gerente e 1 proprietário, totalizando 3 pessoas na operação, com média de 30 atendimentos por dia. Sua estrutura de tecnologia é básica, voltada para atendimento, comunicação, controle de vendas e organização interna.
 Os principais desafios na área de TI e redes são melhorar a estabilidade da internet, proteger os dados da loja, organizar os equipamentos, realizar backups e tornar os processos mais seguros.
-Também será proposta uma política básica de cibersegurança, com boas práticas como uso de senhas fortes, não compartilhamento de acessos, cuidado com links suspeitos, atualização dos equipamentos, backup de dados e proteção da rede Wi-Fi.)*
+Também será proposta uma política básica de cibersegurança, com boas práticas como uso de senhas fortes, não compartilhamento de acessos, cuidado com links suspeitos, atualização dos equipamentos, backup de dados e proteção da rede Wi-Fi.*
 
 ### 1.3 Termo de Parceria
 
