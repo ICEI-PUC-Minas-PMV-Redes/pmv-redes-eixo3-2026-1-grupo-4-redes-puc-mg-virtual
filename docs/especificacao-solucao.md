@@ -48,26 +48,30 @@ Para garantir a segurança dos dados, serão definidos procedimentos de backup p
 
 **Objetivo geral:**
 
-*(Descreva o objetivo geral do projeto.)*
+*Implementar uma política básica de cibersegurança na loja Tavares Armarinhos, visando reduzir vulnerabilidades, proteger dados sensíveis e garantir maior estabilidade, segurança e confiabilidade nas operações diárias, por meio de ações práticas e de baixo custo, como gestão de senhas, backups periódicos, proteção da rede Wi-Fi e adoção de boas práticas de navegação.*
 
 **Objetivos específicos:**
 
-1. *(Objetivo específico 1)*
-2. *(Objetivo específico 2)*
-3. *(Objetivo específico 3)*
-4. *(Adicionar mais se necessário)*
+1. *Realização de Backup*
+2. *Implementação de Políticas de Segurança*
+3. *Gestão de Senhas*
+4. *Adoção de boas práticas de Navegação*
 
 ### 3.3 Escopo da Solução
 
-*(Defina claramente o que faz parte do escopo do projeto e o que está fora do escopo.)*
+* Implementação de política básica de cibersegurança com boas práticas (senhas fortes, não compartilhamento de acessos, cuidado com links suspeitos)
+· Configuração e orientação sobre atualizações regulares de sistema operacional e aplicativos
+· Instalação e configuração de antivírus ativo nos equipamentos da loja
+· Definição e implementação de rotina de backup periódico (mídia externa ou nuvem)
+· Configuração de bloqueio automático de tela e restrição de acesso físico ao computador.*
 
 **Dentro do escopo:**
-- *(Item 1)*
-- *(Item 2)*
+- *Implementação de política básica de cibersegurança com boas práticas (senhas fortes, não compartilhamento de acessos, cuidado com links suspeitos*
+- *Configuração e orientação sobre atualizações regulares de sistema operacional e aplicativos*
 
 **Fora do escopo:**
-- *(Item 1)*
-- *(Item 2)*
+- *Aquisição ou substituição de equipamentos de hardware (computadores, roteadores, cabos)*
+- *Desenvolvimento ou implantação de sistemas de gestão (ERP, PDV) ou softwares personalizados*
 
 ### 3.4 Tipo de Solução
 
@@ -78,7 +82,8 @@ Para garantir a segurança dos dados, serão definidos procedimentos de backup p
 - [ ] Front-end web (HTML + CSS + JS)
 - [ ] Aplicação móvel
 - [ ] Configuração de infraestrutura de rede
-- [x] Outro: *(especificar. Por exemplo: aplicação Google Docs)*
+- [x] Outro: *(Aplicação Google Sheets e API da Google)*
+      
 
 ### 3.5 Justificativa Técnica
 
