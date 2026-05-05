@@ -33,7 +33,7 @@ Também será proposta uma política básica de cibersegurança, com boas práti
 
 ## 2. Problema Identificado
 
-*(Descreva detalhadamente o problema ou necessidade identificada na comunidade que está relacionada a redes de computadores. Seja específico: qual a situação atual? Quais as consequências do problema? Quem é afetado?)*
+*)*
 
 ---
 
@@ -41,7 +41,8 @@ Também será proposta uma política básica de cibersegurança, com boas práti
 
 ### 3.1 Descrição Geral
 
-*(Descreva a solução que o grupo propõe para resolver o problema identificado. Explique como ela atende às necessidades da comunidade.)*
+*((A solução proposta consiste na implementação de uma política básica de cibersegurança na loja, com foco em ações práticas e de baixo custo. Será realizada a atualização contínua do sistema operacional e aplicativos, instalação e manutenção de antivírus ativo, além da adoção de boas práticas de navegação para evitar ameaças como malware e phishing. Também será implantada uma gestão adequada de senhas, com uso de credenciais fortes e, quando possível, autenticação em dois fatores.
+Para garantir a segurança dos dados, serão definidos procedimentos de backup periódico em mídia externa ou nuvem. No aspecto físico, será configurado o bloqueio automático do computador e restrição de acesso a usuários autorizados. Por fim, a rede Wi-Fi será protegida com senha forte, criptografia WPA2/WPA3 e alteração das credenciais padrão do roteador. Essas ações visam reduzir vulnerabilidades e aumentar a segurança e confiabilidade do ambiente..)*
 
 ### 3.2 Objetivos
 
