@@ -12,8 +12,8 @@
 | **Curso** | Curso Superior de Tecnologia em Redes de Computadores |
 | **Disciplina** | Desenvolvimento de Sistema para Redes de Computadores |
 | **Eixo** | 3 |
-| **Semestre/Ano** | *(Preencher)*  |
-| **Professor(a) orientador(a)** | *(Preencher)* |
+| **Semestre/Ano** | *3° Semestre 2026*  |
+| **Professor(a) orientador(a)** | *Harison Herman Silva* |
 | **Carga horária de extensão** | *(Preencher conforme PPC)* |
 
 ---
@@ -22,11 +22,11 @@
 
 | Nome Completo | Matrícula | E-mail Institucional |
 |---------------|-----------|----------------------|
-| *(Nome 1)* | *(Matrícula)* | *(E-mail)* |
-| *(Nome 2)* | *(Matrícula)* | *(E-mail)* |
-| *(Nome 3)* | *(Matrícula)* | *(E-mail)* |
-| *(Nome 4)* | *(Matrícula)* | *(E-mail)* |
-| *(Nome 5)* | *(Matrícula)* | *(E-mail)* |
+| *Geraldo Rodrigues* | *883066* | *geraldo.goncalves@sga.pucminas.br* |
+| *André Albuquerque* | *1582764* | *aalbuquerque@sga.pucminas.br* |
+| *Andrew Tavares* | *895540* | *andrew.monteiro@sga.pucminas.br* |
+| *Daniel Ferreira* | *880944* | *daniel.ferreira@sga.pucminas.br* |
+| *Maria Eduarda* | *1510644* | *maria.reis@sga.pucminas.br* |
 
 ---
 
