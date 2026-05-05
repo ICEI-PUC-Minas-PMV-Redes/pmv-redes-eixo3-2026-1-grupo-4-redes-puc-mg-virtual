@@ -12,7 +12,7 @@
 | **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP|
 | **Bairro / Cidade / UF** | *Jardim Vassouras. Francisco Morato. SP* |
 | **Responsável pelo contato** | *Adriana - Gerente* |
-| **E-mail** | *armarinhotavares#gmail.com* |
+| **E-mail** | *armarinhotavares@gmail.com* |
 | **Telefone** | *11 94500-6561* |
 | **Data do primeiro contato** | *24/02/2025*|
 
