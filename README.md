@@ -9,19 +9,19 @@
  
 | Campo | Descrição |
 |-------|-----------|
-| **Turma** | *(TURMA 01 EIXO 3)* |
-| **Grupo** | *(GRUPO 4)* |
-| **Semestre/Ano** | *(3* SEMESTRE/2026)* |
+| **Turma** | *TURMA 01 EIXO 3* |
+| **Grupo** | *GRUPO 4* |
+| **Semestre/Ano** | *3° SEMESTRE/2026* |
  
 ### Integrantes
  
 | Nome Completo | Matrícula |
 |---------------|-----------|
-| *(GERALDO GONÇALVES RODRIGUES)* | *(883066)* |
-| *(ANDRE ALBUQUERQUE)* | *1582764* |
-| *(DANIEL SILVA)* | *880944 * |
-| *(MARIA EDUARDA)* | * 1510644* |
-| *(ANDREW TAVARES )* | *895540* |
+| *GERALDO GONÇALVES RODRIGUES* | *883066* |
+| *ANDRE ALBUQUERQUE* | *1582764* |
+| *DANIEL SILVA* | *880944 * |
+| *MARIA EDUARDA* | * 1510644* |
+| *ANDREW TAVARES* | *895540* |
  
 ### Orientador(a)
  
