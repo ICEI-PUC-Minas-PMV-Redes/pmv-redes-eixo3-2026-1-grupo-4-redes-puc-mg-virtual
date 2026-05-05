@@ -87,7 +87,49 @@ Para garantir a segurança dos dados, serão definidos procedimentos de backup p
 
 ### 3.5 Justificativa Técnica
 
-*(Justifique as escolhas tecnológicas feitas. Por que essas tecnologias são adequadas para a realidade da comunidade? Considere o nível técnico dos usuários, a infraestrutura disponível, a manutenibilidade da solução, etc.)*
+*As escolhas tecnológicas e metodológicas adotadas neste projeto foram orientadas pela realidade da Tavares Armarinhos, considerando seu porte (3 colaboradores), infraestrutura básica, baixo orçamento e limitado conhecimento técnico em TI.
+1. Política de senhas fortes e autenticação em dois fatores (2FA)
+
+· Adequação: Não exige hardware adicional nem investimento financeiro. Soluções como Google Authenticator ou Authy são gratuitas e compatíveis com os principais serviços (e-mail, redes sociais, sistemas de gestão).
+· Manutenibilidade: Após a configuração inicial, exige apenas conscientização contínua, sem custos recorrentes.
+· Nível técnico: A orientação será feita de forma prática e visual, com exemplos concretos de senhas e demonstração do 2FA.
+
+2. Antivírus gratuito (ex.: Microsoft Defender, Kaspersky Free, Avast)
+
+· Adequação: O Windows já possui o Microsoft Defender nativo e gratuito, com proteção em tempo real suficiente para o perfil de uso da loja (navegação, e-mail, controle de vendas).
+· Manutenibilidade: Atualizações automáticas via Windows Update, sem necessidade de administração manual.
+· Custo zero: Essencial para uma microempresa que não dispõe de verba para licenças pagas.
+
+3. Backup periódico em mídia externa (HD externo ou pendrive) e/ou nuvem gratuita
+
+· Adequação: HD externo de baixo custo (já disponível em muitos casos) ou serviços como Google Drive (15GB grátis) e OneDrive (5GB grátis) são suficientes para arquivos de controle de vendas e documentos administrativos.
+· Simplicidade: O backup pode ser manual (uma vez por semana) com um lembrete visual, ou semiautomático usando ferramentas gratuitas como FreeFileSync.
+· Manutenibilidade: Não requer servidores nem conhecimentos avançados.
+
+4. Proteção de Wi-Fi com WPA2/WPA3 e alteração de credenciais padrão
+
+· Adequação: Todos os roteadores residenciais já suportam WPA2 (e os mais novos WPA3). Alterar senha padrão e desabilitar WPS são ações simples, documentadas nos manuais do roteador.
+· Impacto imediato: Elimina vulnerabilidades comuns como acesso indevido à rede por vizinhos ou ataques de força bruta.
+· Manutenibilidade: Após configurado, só requer nova alteração em caso de esquecimento ou troca de funcionários.
+
+5. Bloqueio automático de tela (após 5 minutos de inatividade)
+
+· Adequação: Configuração nativa do Windows (via opções de energia/tela de bloqueio), sem custos.
+· Necessidade real: Evita que um computador desacompanhado no balcão da loja seja acessado por terceiros.
+· Nível técnico: A configuração é feita uma única vez e passa a operar de forma autônoma.
+
+6. Atualizações automáticas do sistema e aplicativos
+
+· Adequação: O Windows já possui atualizações automáticas por padrão. Para navegadores (Chrome, Firefox), também são automáticas.
+· Justificativa de segurança: Corrige vulnerabilidades conhecidas sem depender do usuário lembrar de atualizar.
+· Manutenibilidade: Zero esforço após verificação inicial de que as atualizações estão ativas.
+
+7. Boas práticas de navegação (treinamento comportamental)
+
+· Adequação: A principal vulnerabilidade em pequenos negócios é o erro humano (phishing, links suspeitos, downloads maliciosos). O treinamento custa apenas tempo e material impresso simples.
+· Manutenibilidade: Recomenda-se um lembrete mensal e a fixação de um cartilha visual próxima ao computador.
+
+Conclusão técnica: Todas as soluções escolhidas são de baixo ou nenhum custo, utilizam recursos já disponíveis no ambiente Windows e nos roteadores comuns, exigem baixo nível de conhecimento técnico para implementação e manutenção, e são escaláveis apenas no sentido de não sobrecarregarem a infraestrutura limitada da loja. O foco está em medidas de alto impacto com baixa complexidade, alinhadas à realidade de uma microempresa familiar.*
 
 ---
 
