@@ -33,7 +33,7 @@ Também será proposta uma política básica de cibersegurança, com boas práti
 
 ## 2. Problema Identificado
 
-*)*
+*Este projeto propõe a implementação de uma política de cibersegurança em uma loja que atualmente opera com infraestrutura básica, utilizando conexão residencial e sem diretrizes formais de segurança digital. A análise inicial identificou vulnerabilidades relevantes, como ausência de controle de acesso, falta de rotinas de backup e inexistência de mecanismos adequados de proteção contra ameaças. Diante disso, a proposta consiste na adoção de medidas práticas e acessíveis, incluindo padronização de boas práticas de uso, fortalecimento da gestão de senhas, implementação de soluções de proteção (como antivírus e atualizações regulares), estruturação de rotinas de backup e melhorias na configuração da rede. O objetivo é reduzir riscos operacionais, proteger os dados da empresa e garantir maior estabilidade e segurança nas atividades diárias.)*
 
 ---
 
