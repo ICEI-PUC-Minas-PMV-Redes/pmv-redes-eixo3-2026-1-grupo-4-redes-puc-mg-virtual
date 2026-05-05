@@ -8,11 +8,11 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Comunidade parceira** | *(Nome da organização/comunidade)* |
-| **Projeto desenvolvido** | *(Título do projeto)* |
-| **Período de execução** | *(Data início – Data fim)* |
-| **Número de pessoas diretamente impactadas** | *(Quantidade)* |
-| **Número de pessoas indiretamente impactadas** | *(Quantidade estimada)* |
+| **Comunidade parceira** | *Armarinho Tavares / Loja de Material - Depósito* |
+| **Projeto desenvolvido** | *Implantação de Políticas de Segurança* |
+| **Período de execução** | *24/02/2026 – 30/06/2026* |
+| **Número de pessoas diretamente impactadas** | *3* |
+| **Número de pessoas indiretamente impactadas** | *6* |
 
 ---
 
