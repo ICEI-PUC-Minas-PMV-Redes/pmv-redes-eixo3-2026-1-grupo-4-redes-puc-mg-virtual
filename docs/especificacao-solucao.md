@@ -7,14 +7,14 @@
 | Campo | Descrição |
 |-------|-----------|
 | **Nome da comunidade/organização** | *Tavares Armarinhos* |
-| **Tipo de organização** | *(EMPRESA* |
-| **CNPJ (se aplicável)** | *(29.490.761/0001-50)* |
-| **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP |
-| **Bairro / Cidade / UF** | *(Jardim Vassouras Francisco Morato SP)* |
-| **Responsável pelo contato** | *(Adriana Gerente)* |
-| **E-mail** | *(armarinhotavares#gmail.com)* |
-| **Telefone** | *(1194500-6561)* |
-| **Data do primeiro contato** | *(24/02/2025)* |
+| **Tipo de organização** | *EMPRESA* |
+| **CNPJ (se aplicável)** | *29.490.761/0001-50* |
+| **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP|
+| **Bairro / Cidade / UF** | *Jardim Vassouras. Francisco Morato. SP* |
+| **Responsável pelo contato** | *Adriana - Gerente* |
+| **E-mail** | *armarinhotavares#gmail.com* |
+| **Telefone** | *11 94500-6561* |
+| **Data do primeiro contato** | *24/02/2025*|
 
 ### 1.2 Contexto da Comunidade
 
@@ -33,7 +33,7 @@ Também será proposta uma política básica de cibersegurança, com boas práti
 
 ## 2. Problema Identificado
 
-*Este projeto propõe a implementação de uma política de cibersegurança em uma loja que atualmente opera com infraestrutura básica, utilizando conexão residencial e sem diretrizes formais de segurança digital. A análise inicial identificou vulnerabilidades relevantes, como ausência de controle de acesso, falta de rotinas de backup e inexistência de mecanismos adequados de proteção contra ameaças. Diante disso, a proposta consiste na adoção de medidas práticas e acessíveis, incluindo padronização de boas práticas de uso, fortalecimento da gestão de senhas, implementação de soluções de proteção (como antivírus e atualizações regulares), estruturação de rotinas de backup e melhorias na configuração da rede. O objetivo é reduzir riscos operacionais, proteger os dados da empresa e garantir maior estabilidade e segurança nas atividades diárias.)*
+*Este projeto propõe a implementação de uma política de cibersegurança em uma loja que atualmente opera com infraestrutura básica, utilizando conexão residencial e sem diretrizes formais de segurança digital. A análise inicial identificou vulnerabilidades relevantes, como ausência de controle de acesso, falta de rotinas de backup e inexistência de mecanismos adequados de proteção contra ameaças. Diante disso, a proposta consiste na adoção de medidas práticas e acessíveis, incluindo padronização de boas práticas de uso, fortalecimento da gestão de senhas, implementação de soluções de proteção (como antivírus e atualizações regulares), estruturação de rotinas de backup e melhorias na configuração da rede. O objetivo é reduzir riscos operacionais, proteger os dados da empresa e garantir maior estabilidade e segurança nas atividades diárias.*
 
 ---
 
@@ -41,8 +41,8 @@ Também será proposta uma política básica de cibersegurança, com boas práti
 
 ### 3.1 Descrição Geral
 
-*((A solução proposta consiste na implementação de uma política básica de cibersegurança na loja, com foco em ações práticas e de baixo custo. Será realizada a atualização contínua do sistema operacional e aplicativos, instalação e manutenção de antivírus ativo, além da adoção de boas práticas de navegação para evitar ameaças como malware e phishing. Também será implantada uma gestão adequada de senhas, com uso de credenciais fortes e, quando possível, autenticação em dois fatores.
-Para garantir a segurança dos dados, serão definidos procedimentos de backup periódico em mídia externa ou nuvem. No aspecto físico, será configurado o bloqueio automático do computador e restrição de acesso a usuários autorizados. Por fim, a rede Wi-Fi será protegida com senha forte, criptografia WPA2/WPA3 e alteração das credenciais padrão do roteador. Essas ações visam reduzir vulnerabilidades e aumentar a segurança e confiabilidade do ambiente..)*
+*A solução proposta consiste na implementação de uma política básica de cibersegurança na loja, com foco em ações práticas e de baixo custo. Será realizada a atualização contínua do sistema operacional e aplicativos, instalação e manutenção de antivírus ativo, além da adoção de boas práticas de navegação para evitar ameaças como malware e phishing. Também será implantada uma gestão adequada de senhas, com uso de credenciais fortes e, quando possível, autenticação em dois fatores.
+Para garantir a segurança dos dados, serão definidos procedimentos de backup periódico em mídia externa ou nuvem. No aspecto físico, será configurado o bloqueio automático do computador e restrição de acesso a usuários autorizados. Por fim, a rede Wi-Fi será protegida com senha forte, criptografia WPA2/WPA3 e alteração das credenciais padrão do roteador. Essas ações visam reduzir vulnerabilidades e aumentar a segurança e confiabilidade do ambiente.*
 
 ### 3.2 Objetivos
 
