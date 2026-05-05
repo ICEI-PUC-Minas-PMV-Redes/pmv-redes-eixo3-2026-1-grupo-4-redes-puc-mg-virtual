@@ -7,18 +7,21 @@
 | Campo | Descrição |
 |-------|-----------|
 | **Nome da comunidade/organização** | *Tavares Armarinhos* |
-| **Tipo de organização** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
-| **CNPJ (se aplicável)** | *(Preencher)* |
+| **Tipo de organização** | *(EMPRESA* |
+| **CNPJ (se aplicável)** | *(29.490.761/0001-50)* |
 | **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP |
-| **Bairro / Cidade / UF** | *(Preencher)* |
-| **Responsável pelo contato** | *(Nome, cargo e setor)* |
-| **E-mail** | *(Preencher)* |
-| **Telefone** | *(Preencher)* |
-| **Data do primeiro contato** | *(dd/mm/aaaa)* |
+| **Bairro / Cidade / UF** | *(Jardim Vassouras Francisco Morato SP)* |
+| **Responsável pelo contato** | *(Adriana Gerente)* |
+| **E-mail** | *(armarinhotavares#gmail.com)* |
+| **Telefone** | *(1194500-6561)* |
+| **Data do primeiro contato** | *(24/02/2025)* |
 
 ### 1.2 Contexto da Comunidade
 
-*(Descreva a comunidade parceira: qual é a sua missão/atuação, público atendido, quantidade de pessoas impactadas, infraestrutura atual de tecnologia e redes, principais desafios enfrentados na área de TI/redes.)*
+*(A comunidade parceira escolhida é a Tavares Armarinhos, uma loja de pequeno porte que atende a população local com produtos de armarinho e itens diversos.
+A loja possui 1 funcionário, 1 gerente e 1 proprietário, totalizando 3 pessoas na operação, com média de 30 atendimentos por dia. Sua estrutura de tecnologia é básica, voltada para atendimento, comunicação, controle de vendas e organização interna.
+Os principais desafios na área de TI e redes são melhorar a estabilidade da internet, proteger os dados da loja, organizar os equipamentos, realizar backups e tornar os processos mais seguros.
+Também será proposta uma política básica de cibersegurança, com boas práticas como uso de senhas fortes, não compartilhamento de acessos, cuidado com links suspeitos, atualização dos equipamentos, backup de dados e proteção da rede Wi-Fi.)*
 
 ### 1.3 Termo de Parceria
 
