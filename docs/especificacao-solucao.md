@@ -147,8 +147,8 @@ Conclusão técnica: Todas as soluções escolhidas são de baixo ou nenhum cust
 
 | ID | Descrição | Categoria |
 |----|-----------|-----------|
-| RNF01 | *As soluções implementadas não devem gerar custos adicionais de software ou hardware (uso de ferramentas gratuitas e recursos nativos). Viabilidade econômica* | *(Desempenho / Segurança / Usabilidade / Disponibilidade / Outro)* |
-| RNF02 | *As configurações de segurança devem ser aplicáveis por pessoa com conhecimento básico em TI, com interface amigável e orientação visual. Usabilidade* |
+| RNF01 | *As soluções implementadas não devem gerar custos adicionais de software ou hardware (uso de ferramentas gratuitas e recursos nativos).* | *Viabilidade econômica* |
+| RNF02 | *As configurações de segurança devem ser aplicáveis por pessoa com conhecimento básico em TI, com interface amigável e orientação visual.* |*Usabilidade* |
 
 ---
 
