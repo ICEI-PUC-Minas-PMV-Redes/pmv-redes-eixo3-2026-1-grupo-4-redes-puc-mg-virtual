@@ -139,22 +139,73 @@ Conclusão técnica: Todas as soluções escolhidas são de baixo ou nenhum cust
 
 | ID | Descrição | Prioridade |
 |----|-----------|------------|
-| RF01 | *(Descrição do requisito)* | Alta / Média / Baixa |
-| RF02 | *(Descrição do requisito)* | Alta / Média / Baixa |
-| RF03 | *(Descrição do requisito)* | Alta / Média / Baixa |
+| RF01 | *O sistema deve permitir a configuração e aplicação de política de senhas fortes (mínimo 8 caracteres, incluindo letras maiúsculas, minúsculas, números e símbolos) para acesso aos equipamentos da loja. Alta *|
+| RF02 | * O antivírus (Microsoft Defender ou similar) deve estar ativo e com proteção em tempo real, realizando varreduras periódicas automaticamente. Alta *|
+| RF03 | *Deve ser implementada rotina de backup periódico (manual ou semiautomático) para mídia externa ou nuvem, com retenção mínima de 30 dias. Alta* |
 
 ### 4.2 Requisitos Não Funcionais
 
 | ID | Descrição | Categoria |
 |----|-----------|-----------|
-| RNF01 | *(Descrição do requisito)* | *(Desempenho / Segurança / Usabilidade / Disponibilidade / Outro)* |
-| RNF02 | *(Descrição do requisito)* | *(Categoria)* |
+| RNF01 | *As soluções implementadas não devem gerar custos adicionais de software ou hardware (uso de ferramentas gratuitas e recursos nativos). Viabilidade econômica* | *(Desempenho / Segurança / Usabilidade / Disponibilidade / Outro)* |
+| RNF02 | *As configurações de segurança devem ser aplicáveis por pessoa com conhecimento básico em TI, com interface amigável e orientação visual. Usabilidade* |
 
 ---
 
 ## 5. Arquitetura da Solução
 
-*(Descreva a arquitetura geral da solução. Pode incluir diagrama de rede, diagrama de componentes, ou descrição textual da topologia. Inclua imagens na pasta `docs/prototipos/` e referencie-as aqui.)*
+*A arquitetura proposta é simplificada, de baixo custo e baseada em recursos já existentes no ambiente da loja. Não há servidores dedicados, infraestrutura em nuvem complexa ou sistemas personalizados
+5.1 Visão Geral da Topologia
+
+
+[Internet] 
+    │
+    ▼
+[Modem/Roteador do provedor] 
+    │ (configuração: WPA2/WPA3, senha forte, WPS desabilitado, credenciais admin alteradas)
+    │
+    ├─── [Wi-Fi protegido] ──► (acesso para dispositivos autorizados)
+    │
+    └─── [Cabo de rede] ──► [Computador da loja (Windows)]
+                               │
+                               ├── Antivírus ativo (Microsoft Defender)
+                               ├── Bloqueio automático de tela (5 min)
+                               ├── Atualizações automáticas habilitadas
+                               ├── Backup manual/semiautomático 
+                               │       └──► [HD externo] ou [Nuvem (Google Drive/OneDrive)]
+                               │
+                               └── Usuário treinado em boas práticas
+
+
+5.2 Componentes da Arquitetura
+
+Componente Tecnologia/Configuração Papel na Segurança
+Roteador/Modem Configuração manual: WPA2/WPA3, troca de senha padrão, desativação de WPS, atualização de firmware Proteção do perímetro de rede contra acessos indevidos
+Computador da loja Windows 10/11 (ou versão suportada) Estação de trabalho principal para controle de vendas, e-mail e navegação
+Antivírus Microsoft Defender (nativo do Windows) ou Kaspersky Free / Avast Free Proteção em tempo real contra malware e ameaças
+Backup Mídia externa (HD/USB) + Google Drive (15GB grátis) ou OneDrive (5GB) Recuperação de dados em caso de falha, ransomware ou erro humano
+Gerenciamento de senhas Política manual + opcional: ferramenta gratuita como Bitwarden (versão pessoal) Evita reuso de senhas e acesso não autorizado
+Políticas de segurança Configuração local do Windows (usuário padrão sem admin, bloqueio de tela, UAC ativo) + treinamento Redução de superfície de ataque e conscientização.
+
+5.3 Diagrama Conceitual (descrição para implementação)
+
+1. Camada de acesso físico
+      Computador no balcão com bloqueio automático de tela. Acesso restrito aos 3 colaboradores autorizados.
+2. Camada de rede
+      Roteador configurado com criptografia forte (WPA2/WPA3). Senha de rede Wi-Fi anotada em local seguro. Rede separada para convidados, se o roteador suportar (opcional).
+3. Camada de endpoint
+      Windows com Microsoft Defender ativo, atualizações automáticas, UAC (Controle de Conta de Usuário) em nível médio. Contas locais com senha forte.
+4. Camada de dados
+      Backup semanal para HD externo (desconectado após o backup) e/ou para nuvem. Dados críticos: planilhas de controle de vendas, documentos fiscais, contatos.
+5. Camada humana
+      Cartilha fixada próxima ao computador com boas práticas (phishing, senhas, links suspeitos). Lembrete mensal para verificar backups.
+
+5.4 Fluxo de Manutenção
+
+· Diário: Nenhuma ação técnica necessária (bloqueio de tela automático).
+· Semanal: Backup manual (ou plugar HD externo e executar script simples).
+· Mensal: Verificar se as atualizações automáticas estão sendo aplicadas (via Windows Update). Conferir logs do antivírus.
+· Trimestral / Sob demanda: Reforço do treinamento rápido (10 minutos) com os colaboradores.
 
 ---
 
