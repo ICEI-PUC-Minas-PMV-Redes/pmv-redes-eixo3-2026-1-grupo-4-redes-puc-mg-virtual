@@ -139,9 +139,9 @@ Conclusão técnica: Todas as soluções escolhidas são de baixo ou nenhum cust
 
 | ID | Descrição | Prioridade |
 |----|-----------|------------|
-| RF01 | *O sistema deve permitir a configuração e aplicação de política de senhas fortes (mínimo 8 caracteres, incluindo letras maiúsculas, minúsculas, números e símbolos) para acesso aos equipamentos da loja. Alta *|
-| RF02 | * O antivírus (Microsoft Defender ou similar) deve estar ativo e com proteção em tempo real, realizando varreduras periódicas automaticamente. Alta *|
-| RF03 | *Deve ser implementada rotina de backup periódico (manual ou semiautomático) para mídia externa ou nuvem, com retenção mínima de 30 dias. Alta* |
+| RF01 | *O sistema deve permitir a configuração e aplicação de política de senhas fortes (mínimo 8 caracteres, incluindo letras maiúsculas, minúsculas, números e símbolos) para acesso aos equipamentos da loja. *| Alta |
+| RF02 | * O antivírus (Microsoft Defender ou similar) deve estar ativo e com proteção em tempo real, realizando varreduras periódicas automaticamente.* | Alta |
+| RF03 | *Deve ser implementada rotina de backup periódico (manual ou semiautomático) para mídia externa ou nuvem, com retenção mínima de 30 dias.* | Alta |
 
 ### 4.2 Requisitos Não Funcionais
 
