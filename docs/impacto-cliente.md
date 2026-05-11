@@ -18,19 +18,47 @@
 
 ## 2. Situação Anterior (Antes do Projeto)
 
-*(Descreva detalhadamente como era a situação da comunidade antes da intervenção do grupo. Quais eram os problemas, limitações e dificuldades enfrentadas em relação a redes de computadores e tecnologia?)*
+*Antes da intervenção, a loja Armarinhos Tavares operava com infraestrutura de TI básica e sem diretrizes formais de segurança digital. Os principais problemas identificados foram:
+
+· Conexão residencial sem proteção adequada, com senha do Wi-Fi fraca e credenciais padrão do roteador mantidas.
+· Ausência de política de senhas – colaboradores usavam senhas curtas, repetidas e frequentemente compartilhadas.
+· Nenhuma rotina de backup – dados de controle de vendas e documentos fiscais ficavam apenas no computador da loja.
+· Antivírus desatualizado ou inativo – o Microsoft Defender estava desabilitado em alguns momentos por falta de conhecimento.
+· Bloqueio automático de tela desativado – computador permanecia acessível mesmo quando o balcão ficava desatendido.
+· Falta de treinamento – colaboradores não sabiam identificar e-mails de phishing ou links suspeitos.
+
+Essas vulnerabilidades geravam riscos concretos de perda de dados, acesso indevido à rede e possível comprometimento do computador usado para vendas e comunicação.*
 
 ---
 
 ## 3. Solução Implementada
 
-*(Resuma a solução que foi implementada. O que foi entregue? Quais tecnologias foram utilizadas? Como a solução funciona?)*
+*Foi implementada uma política básica de cibersegurança com as seguintes ações:
+
+· Gestão de senhas: definição de senhas fortes (mínimo 8 caracteres com letras maiúsculas, minúsculas, números e símbolos) para o computador da loja. Orientação sobre não compartilhamento de acessos.
+· Antivírus ativo: ativação e configuração do Microsoft Defender com proteção em tempo real e varreduras automáticas.
+· Backup periódico: rotina semanal de backup manual para pendrive/HD externo, com orientação para manter uma cópia desconectada após o procedimento.
+· Proteção da rede Wi-Fi: alteração da senha padrão do roteador, configuração de criptografia WPA2/WPA3 e desativação do WPS.
+· Bloqueio automático de tela: configurado para ativar após 5 minutos de inatividade.
+· Atualizações automáticas: verificação e habilitação do Windows Update e atualizações automáticas dos navegadores.
+· Treinamento comportamental: fixação de cartilha visual próxima ao computador com boas práticas (cuidado com links suspeitos, phishing, downloads).
+
+Tecnologias utilizadas: recursos nativos do Windows (Defender, bloqueio de tela, Windows Update), configuração manual do roteador, pendrive/HD externo para backup, e material impresso para conscientização.
+*
 
 ---
 
 ## 4. Situação Posterior (Após o Projeto)
 
-*(Descreva como ficou a situação da comunidade após a implementação da solução. Quais melhorias foram observadas? O que mudou na rotina dos usuários?)*
+*Após a implementação da solução, a loja passou a operar com um nível básico, porém efetivo, de segurança digital:
+
+· Computador da loja agora requer senha forte para acesso e bloqueia automaticamente quando ausente.
+· Rede Wi-Fi está protegida com criptografia forte e senha robusta, eliminando acessos indevidos de vizinhos ou visitantes.
+· Backup semanal garante que os dados de vendas e documentos fiscais possam ser recuperados em caso de falha do computador ou ataque de ransomware.
+· Antivírus ativo monitora ameaças em tempo real, reduzindo risco de infecção por arquivos maliciosos.
+· Colaboradores receberam treinamento prático e passaram a reconhecer e evitar e-mails suspeitos e links perigosos.
+
+A rotina diária não foi impactada negativamente – as medidas são automáticas (antivírus, bloqueio de tela, atualizações) ou demandam poucos minutos por semana (backup).*
 
 ---
 
