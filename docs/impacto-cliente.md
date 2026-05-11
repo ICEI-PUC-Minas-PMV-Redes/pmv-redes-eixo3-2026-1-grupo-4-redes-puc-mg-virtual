@@ -25,7 +25,7 @@
 · Nenhuma rotina de backup – dados de controle de vendas e documentos fiscais ficavam apenas no computador da loja.
 · Antivírus desatualizado ou inativo – o Microsoft Defender estava desabilitado em alguns momentos por falta de conhecimento.
 · Bloqueio automático de tela desativado – computador permanecia acessível mesmo quando o balcão ficava desatendido.
-· Falta de treinamento – colaboradores não sabiam identificar e-mails de phishing ou links suspeitos.
+· Falta de treinamento. Colaboradores não sabiam identificar e-mails de phishing ou links suspeitos.
 
 Essas vulnerabilidades geravam riscos concretos de perda de dados, acesso indevido à rede e possível comprometimento do computador usado para vendas e comunicação.*
 
