@@ -213,10 +213,10 @@ Políticas de segurança Configuração local do Windows (usuário padrão sem a
 
 | Atividade | Responsável | Início | Fim | Status |
 |-----------|-------------|--------|-----|--------|
-| Levantamento de requisitos | *(Nome)* | *(Data)* | *(Data)* | *(Pendente/Em andamento/Concluído)* |
-| Prototipação | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
-| Desenvolvimento do servidor | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
-| Desenvolvimento do cliente | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
+| Levantamento de requisitos | *Andrew* | *24/02/2026* | *28/02/2026* | *Concluído* |
+| Prototipação | *Geraldo* | *01/03/2026* | *03/03/2026* | *Concluído* |
+| Desenvolvimento do servidor | *Andrew, Geraldo, André, Daniel* | *08/04/2026)* | *20/04/2026* | *Concluído* |
+| Desenvolvimento do cliente | *Andrew, Geraldo, André, Daniel* | *01/05/2026* | *11/05/2026* | *Concluído* |
 | Testes | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
 | Documentação | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
 | Apresentação | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
