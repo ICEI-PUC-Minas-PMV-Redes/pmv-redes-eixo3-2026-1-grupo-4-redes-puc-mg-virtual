@@ -66,23 +66,47 @@ A rotina diária não foi impactada negativamente – as medidas são automátic
 
 ### 5.1 Impactos Positivos
 
-*(Liste e descreva os impactos positivos da solução para a comunidade. Considere aspectos como: eficiência operacional, redução de custos, melhoria na comunicação, acesso à informação, capacitação tecnológica, etc.)*
+Aspecto Impacto Observado
+Segurança de dados Os dados de controle de vendas e documentos administrativos passaram a ter backup regular, eliminando o risco de perda irreversível por falha de hardware ou erro humano.
+Proteção contra acessos indevidos Com senha forte no computador, bloqueio de tela e Wi-Fi protegido, reduziu-se drasticamente a chance de acesso não autorizado por terceiros (clientes, vizinhos ou visitantes).
+Prevenção contra malware O antivírus ativo e atualizado, combinado com boas práticas de navegação, diminui a exposição a ransomware, phishing e outros tipos de malware comuns em pequenos comércios.
+Capacitação tecnológica Os 3 colaboradores foram treinados em conceitos básicos de cibersegurança, adquirindo autonomia para identificar ameaças e manter as boas práticas mesmo sem acompanhamento externo.
+Custo zero Todas as soluções implementadas utilizaram recursos gratuitos (Microsoft Defender, Windows Update, configurações nativas) ou materiais de baixo custo (pendrive/HD externo já disponível, cartilha impressa).
+Continuidade das operações Em caso de incidente (falha do computador, arquivo corrompido, ataque), o backup permite restaurar os dados em poucos minutos, evitando paralisação do atendimento (média de 30 atendimentos/dia).
+
+Pontos de melhoria futura:
+
+· Automatizar o backup com ferramenta gratuita como FreeFileSync ou agendador de tarefas do Windows.
+· Ativar 2FA no e-mail principal da loja (Gmail) e em qualquer sistema de gestão utilizado.
+· Realizar lembretes mensais (via WhatsApp ou e-mail) sobre boas práticas, por iniciativa do proprietário ou gerente.
+· Avaliar a possibilidade de aquisição futura de um roteador com suporte a rede de convidados, em caso de expansão do negócio.*
 
 | Aspecto | Impacto Observado |
 |---------|-------------------|
-| *(Ex: Conectividade)* | *(Descrição do impacto)* |
-| *(Ex: Eficiência operacional)* | *(Descrição do impacto)* |
-| *(Ex: Capacitação tecnológica)* | *(Descrição do impacto)* |
+| *Conectividade* | *Impacto positivo na melhora da conexão e segurançã da Rede* |
+| *Eficiência operacional* | *Eficiência operacional Backup semanal evita paralisação dos 30 atendimentos/dia por perda de dados. Antivírus e bloqueio de tela mantêm o computador sempre rápido e seguro sem intervenção manual.* |
+| *Capacitação tecnológica* | *Os 3 colaboradores aprenderam a identificar phishing, criar senhas fortes e fazer backup, tornando-se autônomos para manter a segurança sem suporte externo.* |
 
 ### 5.2 Limitações e Pontos de Melhoria
 
-*(Identifique limitações da solução implementada e sugestões de melhoria futura.)*
+*Limitações identificadas:
+· O backup ainda é manual (semanal). Se o colaborador esquecer de realizá-lo, os dados ficam desprotegidos até a semana seguinte.
+· Não há autenticação em dois fatores (2FA) ativa nos serviços web utilizados pela loja (e-mail, redes sociais), pois depende da adesão da equipe.
+· O treinamento comportamental depende de reforço contínuo para não ser esquecido com o tempo.
+· Não foi implementada uma rede separada para convidados, caso o roteador suporte, o que seria desejável para isolar dispositivos de clientes.*
 
 ### 5.3 Sustentabilidade da Solução
 
-*(Analise a capacidade da comunidade de manter a solução funcionando após a saída do grupo. A comunidade tem pessoas capacitadas para dar manutenção? Há custos recorrentes? O que foi feito para garantir a sustentabilidade?)*
+*A solução foi projetada para ser mantida pela própria loja com mínimo esforço:
 
----
+· Capacitação local: os 3 colaboradores receberam treinamento prático e a cartilha fixada próxima ao computador serve como lembrete visual contínuo.
+· Custos recorrentes: zero – todas as ferramentas são gratuitas (Microsoft Defender, Windows Update, backups para mídia externa). Se optarem por nuvem no futuro, planos gratuitos (Google Drive 15GB, OneDrive 5GB) são suficientes.
+· Manutenção técnica: não há necessidade de suporte especializado. As configurações (bloqueio de tela, antivírus, atualizações automáticas) operam de forma autônoma após configuração inicial.
+· Backup: recomenda-se que a própria gerente (Adriana) assuma a responsabilidade semanal, colocando um lembrete no celular ou na agenda da loja.
+· Riscos de abandono: o único risco é a rotina de backup manual ser esquecida. Para mitigar, sugeriu-se um calendário impresso próximo ao computador para marcar cada backup realizado.
+
+Conclusão sobre sustentabilidade: A comunidade parceira tem plenas condições de manter a solução funcionando após a saída do grupo, pois não depende de tecnologia complexa, custos recorrentes ou conhecimento técnico avançado. A continuidade depende basicamente da disciplina da equipe em realizar o backup semanal, o que foi comunicado e acordado com a gerente durante o projeto.*
+
 
 ## 6. Feedback da Comunidade
 
