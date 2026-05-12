@@ -154,12 +154,12 @@ Conclusão técnica: Todas as soluções escolhidas são de baixo ou nenhum cust
 
 ## 5. Arquitetura da Solução
 
-*A arquitetura proposta é simplificada, de baixo custo e baseada em recursos já existentes no ambiente da loja. Não há servidores dedicados, infraestrutura em nuvem complexa ou sistemas personalizados
+*A arquitetura proposta é simplificada, de baixo custo e baseada em recursos já existentes no ambiente da loja. Não há servidores dedicados, infraestrutura em nuvem complexa ou sistemas personalizados.
+
 5.1 Visão Geral da Topologia
 
 
 <img width="1600" height="1060" alt="image" src="https://github.com/user-attachments/assets/41869a3c-6846-4cea-bacc-88b391e90b0c" />
-
 
 
 5.2 Componentes da Arquitetura
