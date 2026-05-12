@@ -174,16 +174,8 @@ Políticas de segurança Configuração local do Windows (usuário padrão sem a
 
 5.3 Diagrama Conceitual (descrição para implementação)
 
-1. Camada de acesso físico
-      Computador no balcão com bloqueio automático de tela. Acesso restrito aos 3 colaboradores autorizados.
-2. Camada de rede
-      Roteador configurado com criptografia forte (WPA2/WPA3). Senha de rede Wi-Fi anotada em local seguro. Rede separada para convidados, se o roteador suportar (opcional).
-3. Camada de endpoint
-      Windows com Microsoft Defender ativo, atualizações automáticas, UAC (Controle de Conta de Usuário) em nível médio. Contas locais com senha forte.
-4. Camada de dados
-      Backup semanal para HD externo (desconectado após o backup) e/ou para nuvem. Dados críticos: planilhas de controle de vendas, documentos fiscais, contatos.
-5. Camada humana
-      Cartilha fixada próxima ao computador com boas práticas (phishing, senhas, links suspeitos). Lembrete mensal para verificar backups.
+<img width="1414" height="1600" alt="WhatsApp Image 2026-05-12 at 11 43 36" src="https://github.com/user-attachments/assets/5ab7dd78-63e4-435e-916a-7f5484431cbd" />
+
 
 5.4 Fluxo de Manutenção
 
