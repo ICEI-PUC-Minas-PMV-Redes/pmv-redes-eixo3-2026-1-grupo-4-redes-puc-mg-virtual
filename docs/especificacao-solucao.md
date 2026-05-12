@@ -158,23 +158,8 @@ Conclusão técnica: Todas as soluções escolhidas são de baixo ou nenhum cust
 5.1 Visão Geral da Topologia
 
 
-[Internet] 
-    │
-    ▼
-[Modem/Roteador do provedor] 
-    │ (configuração: WPA2/WPA3, senha forte, WPS desabilitado, credenciais admin alteradas)
-    │
-    ├─── [Wi-Fi protegido] ──► (acesso para dispositivos autorizados)
-    │
-    └─── [Cabo de rede] ──► [Computador da loja (Windows)]
-                               │
-                               ├── Antivírus ativo (Microsoft Defender)
-                               ├── Bloqueio automático de tela (5 min)
-                               ├── Atualizações automáticas habilitadas
-                               ├── Backup manual/semiautomático 
-                               │       └──► [HD externo] ou [Nuvem (Google Drive/OneDrive)]
-                               │
-                               └── Usuário treinado em boas práticas
+<img width="1600" height="1060" alt="image" src="https://github.com/user-attachments/assets/41869a3c-6846-4cea-bacc-88b391e90b0c" />
+
 
 
 5.2 Componentes da Arquitetura
