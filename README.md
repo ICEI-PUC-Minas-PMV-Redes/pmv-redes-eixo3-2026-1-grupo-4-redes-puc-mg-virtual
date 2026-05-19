@@ -9,8 +9,8 @@
  
 | Campo | Descrição |
 |-------|-----------|
-| **Turma** | *TURMA 01 EIXO 3* |
-| **Grupo** | *GRUPO 4* |
+| **Turma** | *01 - EIXO 3* |
+| **Grupo** | * 04 * |
 | **Semestre/Ano** | *3° SEMESTRE/2026* |
  
 ### Integrantes
