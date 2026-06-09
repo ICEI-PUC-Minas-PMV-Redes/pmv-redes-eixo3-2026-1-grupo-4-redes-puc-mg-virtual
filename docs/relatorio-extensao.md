@@ -34,12 +34,12 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome** | *(Preencher)* |
-| **Tipo** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
-| **Endereço** | *(Preencher)* |
-| **Responsável** | *(Nome, cargo)* |
-| **Contato** | *(E-mail e telefone)* |
-| **Público atendido** | *(Descrição do público e quantidade estimada)* |
+| **Nome** | *Armarinho Tavares* |
+| **Tipo** | *Empresa* |
+| **Endereço** | *Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP* |
+| **Responsável** | *Adriana, Gerente* |
+| **Contato** | *armarinhostavares@gmail.com 11 94500-6561 * |
+| **Público atendido** | *Usuários da Rede, Vendedores - Gerência e Outros - Quantidade estimada 6 pessoas* |
 
 ---
 
