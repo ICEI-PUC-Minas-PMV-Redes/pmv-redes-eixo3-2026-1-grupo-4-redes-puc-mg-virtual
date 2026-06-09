@@ -45,7 +45,17 @@
 
 ## 4. Resumo da Atividade
 
-*(Descreva em até 300 palavras o projeto desenvolvido, incluindo: o problema identificado, a solução proposta, as ações realizadas e os resultados alcançados.)*
+*Problema identificado:
+O Armarinhos Tavares, microempresa de Francisco Morato/SP, operava com infraestrutura de TI básica, utilizando conexão residencial sem diretrizes formais de segurança. Foram identificadas vulnerabilidades críticas: ausência de controle de acesso, inexistência de rotinas de backup, falta de antivírus ativo, senhas fracas e rede Wi-Fi desprotegida. Essas falhas expunham os dados da loja a riscos como perda de informações, acesso não autorizado e ameaças virtuais (malware, phishing).
+
+Solução proposta:
+Implementação de uma política de cibersegurança de baixo custo e alto impacto, utilizando recursos já disponíveis. As ações incluíram: adoção de senhas fortes e autenticação em dois fatores; ativação do Microsoft Defender com proteção em tempo real; configuração de backup semanal em HD externo e nuvem gratuita (Google Drive); proteção da rede Wi-Fi com criptografia WPA2/WPA3 e alteração de credenciais padrão; bloqueio automático de tela após inatividade; e treinamento dos colaboradores em boas práticas de navegação (phishing, links suspeitos).
+
+Ações realizadas:
+Foram configurados os equipamentos existentes (computador com Windows, roteador), aplicadas as políticas de segurança, estabelecida rotina de backups e produzido material visual de conscientização. Todo o processo foi documentado com termos de parceria e evidências.
+
+Resultados alcançados:
+Redução significativa das vulnerabilidades operacionais; proteção dos dados da loja contra perda e acessos indevidos; maior estabilidade e confiança nas atividades diárias; conscientização dos colaboradores sobre riscos digitais; e nenhum custo adicional com software ou hardware, garantindo viabilidade e sustentabilidade para o pequeno negócio.*
 
 ---
 
