@@ -89,7 +89,6 @@ Microfundamento: Desenvolvimento Web Backend e Front End – A política de segu
 Microfundamento: Desenvolvimento de Aplicações Móveis – A recomendação de autenticação em dois fatores (2FA) utiliza aplicativos móveis como Google Authenticator ou Authy, demonstrando como dispositivos móveis podem atuar como fatores de autenticação independentes, aumentando significativamente a segurança contra acessos não autorizados.
 
 Conclusão teórica: O projeto aplica os princípios da tríade CID (Confidencialidade, Integridade e Disponibilidade) – confidencialidade via senhas e bloqueio de tela; integridade via backups e antivírus; disponibilidade via atualizações e manutenção preventiva. Todos os microfundamentos contribuem para a formação de uma visão sistêmica, onde a segurança não depende apenas de tecnologia, mas também de processos e pessoas.
----
 
 ## 7. Metodologia
 
