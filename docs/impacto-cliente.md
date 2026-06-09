@@ -113,10 +113,10 @@ Conclusão sobre sustentabilidade: A comunidade parceira tem plenas condições 
 *(Registre depoimentos e feedbacks recebidos de membros da comunidade parceira sobre a solução implementada. Inclua citações diretas quando autorizadas.)*
 
 **Depoimento 1:**
-> *(Transcrever depoimento)* – ***(Nome, cargo)***
+> *Após a impalantação das políticas de segurança, tivemos uma melhora nos processos e na disponibilidade da Rede e da Internet.* – ***(José Viana, Vendedor)***
 
 **Depoimento 2:**
-> *(Transcrever depoimento)* – ***(Nome, cargo)***
+> *Com a aplicação das politicas de Segurança e o Backup temos mais confiança na Rede e no Sistema, até mesmo nossa navegação ficou mais rápida* – ***(Adriana, Gerente)***
 
 ---
 
