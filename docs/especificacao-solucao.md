@@ -196,7 +196,7 @@ Políticas de segurança Configuração local do Windows (usuário padrão sem a
 | Desenvolvimento do cliente | *Andrew, Geraldo, André, Daniel* | *01/05/2026* | *11/05/2026* | *Concluído* |
 | Testes | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *02/05/2026* | *28/05/2026* | *Concluído* |
 | Documentação | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *20/05/2026* | *30/05/2026* | *Concluído* |
-| Apresentação | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *01/06/2026* | *09/06/2026* | *(Concluído)* |
+| Apresentação | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *01/06/2026* | *09/06/2026* | *Concluído* |
 
 ---
 
@@ -204,5 +204,5 @@ Políticas de segurança Configuração local do Windows (usuário padrão sem a
 
 | Risco | Probabilidade | Impacto | Mitigação |
 |-------|--------------|---------|-----------|
-| *(Descrição do risco)* | Alta / Média / Baixa | Alto / Médio / Baixo | *(Ação de mitigação)* |
-| *(Descrição do risco)* | *(Prob.)* | *(Imp.)* | *(Mitigação)* |
+| *Colaboradores não adotarem as boas práticas (senhas fortes, não compartilhar acessos, evitar links suspeitos) por falta de hábito ou resistência * |Média / Alto|  |*Treinamento periódico (refresher mensal de 10 min), fixação de cartilha visual próxima ao computador, envolvimento da gerência para cobrança e incentivo à cultura de segurança*| |
+| *Falha ou esquecimento na execução do backup semanal, resultando em perda de dados em caso de incidente * | *Media/Alta* | |*Perda de Dados sensíveis ou Arquivos importantes* | |* Incluir segunda opção de backup em nuvem gratuita como redundância* |
