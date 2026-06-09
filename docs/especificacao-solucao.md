@@ -194,9 +194,9 @@ Políticas de segurança Configuração local do Windows (usuário padrão sem a
 | Prototipação | *Geraldo* | *01/03/2026* | *03/03/2026* | *Concluído* |
 | Desenvolvimento do servidor | *Andrew, Geraldo, André, Daniel* | *08/04/2026)* | *20/04/2026* | *Concluído* |
 | Desenvolvimento do cliente | *Andrew, Geraldo, André, Daniel* | *01/05/2026* | *11/05/2026* | *Concluído* |
-| Testes | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
-| Documentação | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
-| Apresentação | *(Nome)* | *(Data)* | *(Data)* | *(Status)* |
+| Testes | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *02/05/2026* | *28/05/2026* | *Concluído* |
+| Documentação | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *20/05/2026* | *30/05/2026* | *Concluído* |
+| Apresentação | *Geraldo, Andrew, Daniel André, Maria Eduarda* | *01/06/2026* | *09/06/2026* | *(Concluído)* |
 
 ---
 
