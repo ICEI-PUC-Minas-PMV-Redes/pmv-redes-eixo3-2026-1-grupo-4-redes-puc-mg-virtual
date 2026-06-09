@@ -63,20 +63,32 @@ Redução significativa das vulnerabilidades operacionais; proteção dos dados 
 
 ### 5.1 Objetivo Geral
 
-*(Preencher)*
+Implementar uma política básica de cibersegurança na loja Tavares Armarinhos, visando reduzir vulnerabilidades, proteger dados sensíveis e garantir maior estabilidade, segurança e confiabilidade nas operações diárias, por meio de ações práticas e de baixo custo, como gestão de senhas, backups periódicos, proteção da rede Wi-Fi e adoção de boas práticas de navegação.
 
-### 5.2 Objetivos Específicos
+5.2 Objetivos Específicos
 
-1. *(Preencher)*
-2. *(Preencher)*
-3. *(Preencher)*
+1. Realização de Backup – Estabelecer rotina semanal de backup dos dados da loja em mídia externa (HD ou pendrive) e/ou nuvem gratuita (Google Drive ou OneDrive), garantindo retenção mínima de 30 dias para recuperação em caso de falhas ou ataques.
+2. Implementação de Políticas de Segurança – Configurar bloqueio automático de tela após inatividade, restringir acessos físicos ao computador e aplicar princípios de menor privilégio (usuário padrão sem administrador).
+3. Gestão de Senhas – Adotar senhas fortes (mínimo 8 caracteres com letras maiúsculas, minúsculas, números e símbolos), evitar reuso e compartilhamento, e implementar autenticação em dois fatores (2FA) nos principais serviços.
+4. Adoção de boas práticas de Navegação – Treinar os colaboradores para identificar links suspeitos, e-mails de phishing e downloads maliciosos, fixando material visual de apoio próximo ao computador.
 
 ---
 
-## 6. Fundamentação Teórica
+6. Fundamentação Teórica
 
-*(Apresente brevemente os conceitos e fundamentos teóricos que sustentam o projeto. Referencie os microfundamentos estudados e como eles se relacionam com a solução desenvolvida.)*
+O presente projeto fundamenta-se em conceitos clássicos de segurança da informação e boas práticas de TI, alinhados aos microfundamentos estudados ao longo do curso.
 
+Microfundamento: Gerência de Projetos de T.I. – A implementação da política de cibersegurança seguiu as fases de um projeto: levantamento de requisitos (identificação das vulnerabilidades da loja), planejamento (definição de escopo, objetivos e cronograma), execução (configurações e treinamentos), monitoramento (verificação de backups e atualizações) e encerramento (entrega da documentação e termo de parceria). Essa abordagem garantiu entregas controladas e alinhadas à realidade da microempresa.
+
+Microfundamento: Teste e Manutenção de Software – Embora não tenha sido desenvolvido software novo, a manutenção contínua dos sistemas existentes (Windows, antivírus, navegadores) é essencial para a segurança. Foram validadas as atualizações automáticas do sistema operacional e aplicativos, e definidos ciclos de verificação mensal dos logs do antivírus e da integridade dos backups, assegurando que as soluções permaneçam funcionais ao longo do tempo.
+
+Microfundamento: APIs e Web Services (relação indireta) – O uso de serviços em nuvem gratuitos (Google Drive e OneDrive) para armazenamento de backups envolve, indiretamente, o consumo de APIs RESTful dessas plataformas. Embora o projeto não exija desenvolvimento de integração personalizada, compreender o funcionamento de APIs permite, futuramente, automatizar o processo de backup via scripts (ex.: Google Drive API).
+
+Microfundamento: Desenvolvimento Web Backend e Front End – A política de segurança inclui orientações sobre navegação segura, que envolvem a proteção contra ameaças web como phishing e XSS. O treinamento aborda como identificar URLs maliciosas e formulários falsos, conceitos diretamente relacionados à segurança no desenvolvimento de aplicações web (tanto backend quanto frontend).
+
+Microfundamento: Desenvolvimento de Aplicações Móveis – A recomendação de autenticação em dois fatores (2FA) utiliza aplicativos móveis como Google Authenticator ou Authy, demonstrando como dispositivos móveis podem atuar como fatores de autenticação independentes, aumentando significativamente a segurança contra acessos não autorizados.
+
+Conclusão teórica: O projeto aplica os princípios da tríade CID (Confidencialidade, Integridade e Disponibilidade) – confidencialidade via senhas e bloqueio de tela; integridade via backups e antivírus; disponibilidade via atualizações e manutenção preventiva. Todos os microfundamentos contribuem para a formação de uma visão sistêmica, onde a segurança não depende apenas de tecnologia, mas também de processos e pessoas.
 ---
 
 ## 7. Metodologia
