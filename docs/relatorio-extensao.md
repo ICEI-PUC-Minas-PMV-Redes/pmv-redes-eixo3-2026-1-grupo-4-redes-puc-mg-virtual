@@ -100,11 +100,11 @@ Conclusão teórica: O projeto aplica os princípios da tríade CID (Confidencia
 
 | Atividade | Período Planejado | Período Executado | Observações |
 |-----------|-------------------|-------------------|-------------|
-| Contato inicial com a comunidade | *(Data)* | *(Data)* | *(Obs.)* |
-| Levantamento de requisitos | *(Data)* | *(Data)* | *(Obs.)* |
-| Especificação e prototipação | *(Data)* | *(Data)* | *(Obs.)* |
-| Desenvolvimento do back-end | *(Data)* | *(Data)* | *(Obs.)* |
-| Desenvolvimento do front-end | *(Data)* | *(Data)* | *(Obs.)* |
+| Contato inicial com a comunidade | *10/02/2026* | *08/03/2026* | *(Obs.)* |
+| Levantamento de requisitos | *15/02/2026* | *18/02/2026* | *(Obs.)* |
+| Especificação e prototipação | *09/03/2026* | *12/04/2026* | *(Obs.)* |
+| Desenvolvimento do back-end | *13/04/2026* | *17/05/2026* | *(Obs.)* |
+| Desenvolvimento do front-end | *18/05/2026* | *10/06/2026* | *(Obs.)* |
 | Testes e ajustes | *(Data)* | *(Data)* | *(Obs.)* |
 | Documentação | *(Data)* | *(Data)* | *(Obs.)* |
 | Apresentação | *(Data)* | *(Data)* | *(Obs.)* |
